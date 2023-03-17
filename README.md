@@ -1,1 +1,0 @@
-# Hospital-SQL-Database-Mock-
